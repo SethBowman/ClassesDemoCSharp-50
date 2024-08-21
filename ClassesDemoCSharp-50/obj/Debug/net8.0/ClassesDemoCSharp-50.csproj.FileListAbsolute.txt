@@ -1,0 +1,14 @@
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\bin\Debug\net8.0\ClassesDemoCSharp-50.exe
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\bin\Debug\net8.0\ClassesDemoCSharp-50.deps.json
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\bin\Debug\net8.0\ClassesDemoCSharp-50.runtimeconfig.json
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\bin\Debug\net8.0\ClassesDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\bin\Debug\net8.0\ClassesDemoCSharp-50.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\obj\Debug\net8.0\ClassesDemoCSharp-50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\obj\Debug\net8.0\ClassesDemoCSharp-50.AssemblyInfoInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\obj\Debug\net8.0\ClassesDemoCSharp-50.AssemblyInfo.cs
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\obj\Debug\net8.0\ClassesDemoCSharp-50.csproj.CoreCompileInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\obj\Debug\net8.0\ClassesDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\obj\Debug\net8.0\refint\ClassesDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\obj\Debug\net8.0\ClassesDemoCSharp-50.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\obj\Debug\net8.0\ClassesDemoCSharp-50.genruntimeconfig.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\ClassesDemoCSharp-50\ClassesDemoCSharp-50\obj\Debug\net8.0\ref\ClassesDemoCSharp-50.dll
